@@ -9,5 +9,3 @@ vão aparecer 3 espaços para estrelas a demonstrar o quão bom foi o seu desemp
 nível, em termos de tempo, e quantas mais estrelas o jogador acumular, mais recompensas
 pode ganhar sendo essas recompensas uma letra com uma fonte que ainda não havia sido
 descoberta nos níveis jogados ou de uma fonte já vista em algum nível.
-
-Repositório dedicado ao Laboratório de Aplicações do TESP de Torres Vedras.
